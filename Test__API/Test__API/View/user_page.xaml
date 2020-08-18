@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Title="User Data "
+             x:Class="Test_API.user_page">
+
+
+    <StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button
+                x:Name="SaveBtn" 
+                Text="Save"
+                Command="{Binding SaveCommand}" />
+            
+            <Button
+                x:Name="ShowBtn"
+                Text="Show"
+                Command="{Binding ShowCommand}" />
+
+            <!--<Button Grid.Row="9"
+                Grid.ColumnSpan="3"
+                x:Name= "Loginbtn"
+                Text = "Login"   
+                Command="{Binding LoginCommand}" 
+                HorizontalOptions = "FillAndExpand"
+                VerticalOptions="End"
+                CornerRadius="10"
+                BackgroundColor="#ff8000"
+                />-->
+        </StackLayout>
+
+        <ListView       
+                    x:Name="UserDataListView" 
+                    BackgroundColor="Orange"
+                  >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="2">
+                            <Label Text="{Binding UserId}" TextColor="Black"/>
+                            <Label Text="{Binding Id}" TextColor="Black"/>
+                            <Label Text="{Binding Title}" TextColor="Black"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <!--<Button Text="Save"
+                Clicked="OnSaveButtonClicked"/>
+        <Button Text="Save"
+                Clicked="OnDeleteButtonClicked"/>-->
+        
+    </StackLayout>
+</ContentPage>

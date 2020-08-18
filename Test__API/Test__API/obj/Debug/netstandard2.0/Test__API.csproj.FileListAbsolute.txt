@@ -1,0 +1,16 @@
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\Test__API.csprojAssemblyReference.cache
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\View\user_page.xaml.g.cs
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\Test__API.AssemblyInfoInputs.cache
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\Test__API.AssemblyInfo.cs
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\Test__API.csproj.CoreCompileInputs.cache
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\bin\Debug\netstandard2.0\Test__API.deps.json
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\bin\Debug\netstandard2.0\Test__API.dll
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\bin\Debug\netstandard2.0\ref\Test__API.dll
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\bin\Debug\netstandard2.0\Test__API.pdb
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\Test__API.dll
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\ref\Test__API.dll
+D:\OFFICE_WORK\Test__API\Test__API\Test__API\obj\Debug\netstandard2.0\Test__API.pdb
